@@ -1,9 +1,9 @@
 {
-  "name": "sinergi/config",
+  "name": "th3mouk/config",
   "type": "library",
   "description": "PHP configurations loading",
   "keywords": ["Config", "Configurations", "Loading", "Management"],
-  "homepage": "https://github.com/sinergi/config",
+  "homepage": "https://github.com/th3mouk/config",
   "license": "MIT",
   "authors": [
     {
@@ -13,6 +13,10 @@
     {
       "name": "Jenner",
       "email": "hypxm@qq.com"
+    },
+    {
+      "name": "Jérémy Marodon",
+      "email": "marodon.jeremy@gmail.com"
     }
   ],
   "require": {
@@ -41,9 +45,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-develop": "0.6.3-dev"
+      "dev-master": "0.7.x-dev"
     }
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": true
+  }
 }
